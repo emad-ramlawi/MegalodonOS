@@ -11,7 +11,7 @@ curl -sSL https://raw.githubusercontent.com/emad-ramlawi/MegalodonOS/main/mega.s
 Basically, this script will take vanilla Arch Linux and turn it to K8s control plane in less than Egyptian minute (~5mins). 
 I love how Arch Linux is minimal and up-to-date making it nimble, I find myself creating k8s cluster in my homelab for learning/testing and thus this project was born.
 
-I used the Arch-Linux-x86_64-basic-x.x.qcow2 (so we can use the arch/arch username/password SSH login, all thanks to [Sven-Hendrik Haase ](https://svenstaro.org/)
+I used the Arch-Linux-x86_64-basic-x.x.qcow2 (so we can use the **arch/arch username/password** SSH login, all thanks to [Sven-Hendrik Haase ](https://svenstaro.org/)
 https://gitlab.archlinux.org/archlinux/arch-boxes/-/jobs/31748/artifacts/browse/output
 And a script that will execute on startup once, once you ssh using the arch user.
 
