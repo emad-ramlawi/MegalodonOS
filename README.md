@@ -4,6 +4,10 @@ K8s + Arch Linux using kubeadm.
 
 qcow2 image available as an example, it will always default to the latest everything (at time of writing 1.21.4). You can fetch the script and run it on running Arch Linux as well.
 
+```
+curl -sSL https://raw.githubusercontent.com/emad-ramlawi/MegalodonOS/main/mega.sh | sudo bash
+```
+
 Basically, this script will take vanilla Arch Linux and turn it to K8s control plane in less than Egyptian minute (~5mins). I love how Arch Linux is minimal and up to date making it nimble, I find myself creating k8s cluster in my home lab for learning/testing and thus this project.
 
 So basically this is a vanilla qcow2 image from here:
