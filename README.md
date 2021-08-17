@@ -1,6 +1,6 @@
-# MegalodonOS
+## MegalodonOS
 
-K8s + Arch Linux using kubeadm.
+# K8s + Arch Linux using kubeadm.
 
 qcow2 image available as an example, it will always default to the latest everything (at time of writing 1.21.4). You can fetch the script and run it on running Arch Linux as well.
 
